@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">FragDemo</string>
+    <string name="action_settings">Settings</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="insert_number_of_names_displayed">Insert number of names displayed:</string>
+    <string name="celebimage">CelebImage</string>
+</resources>
